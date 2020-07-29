@@ -82,3 +82,4 @@ It is difficult to prove the significance of 42 variables using statictical test
 6. Split the data into train and test and apply base mondel of Logistic Regression
 7. Since the results are not very great, we also look at sophisticated models like Decision Tree, Random Forest, KNN, Naive bayes, etc.
 8. Going ahead with Decision Tree and Random Forest, we do hyper parameter tuning using Grid Search CV
+9. Final results are 64% R2 for Random Forest and 62% R2 for Decision Tree.
